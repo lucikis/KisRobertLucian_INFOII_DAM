@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Book</string>
+    <string name="chapter1">Într-un sat de la marginea pădurii trăia o fetiță drăgălașă, pe care toată lumea o iubea. Bunica sa îi dăruise o scufiță roșie, pe care fetița o purta mereu, motiv pentru care toți o numeau „Scufița Roșie”. Într-o zi, mama sa o cheamă și îi spune că bunica este bolnavă și are nevoie de mâncare și vin pentru a-și recăpăta puterile. O roagă pe Scufița Roșie să-i ducă coșul cu merinde, dar o avertizează să meargă direct la casa bunicii, fără să se oprească pe drum și fără să vorbească cu străini. Plină de entuziasm, fetița își ia coșul și pornește la drum prin pădure.</string>
+    <string name="chapter2">Pe drum, Scufița Roșie se întâlnește cu un lup viclean. Acesta, prefăcându-se prietenos, o întreabă unde merge. Naivă și încrezătoare, fetița îi spune că se duce la bunica sa, care locuiește într-o căsuță la marginea pădurii. Lupul, dorind să o păcălească și să-și îndeplinească planul malefic, îi propune un joc: să vadă cine ajunge primul la casa bunicii. În timp ce Scufița Roșie se oprește să culeagă flori pentru bunica, lupul profită de ocazie și fuge pe drumul cel mai scurt spre căsuță.</string>
+    <string name="chapter3">Lupul ajunge primul la casa bunicii, bate la ușă și, imitând vocea Scufiței Roșii, reușește să fie lăsat înăuntru. Fără să stea pe gânduri, el o înghite pe bunică și se îmbracă în hainele ei, așezându-se în pat. Când Scufița Roșie ajunge la căsuță, găsește ușa întredeschisă și intră cu grijă. Se apropie de pat și observă că „bunica” arată puțin diferit. Curioasă, începe să îi pună întrebări despre trăsăturile sale neobișnuite, iar lupul îi răspunde cu viclenie:\n
+
+— Bunico, ce urechi mari ai!\n
+— Ca să te aud mai bine, draga mea!\n
+— Bunico, ce ochi mari ai!\n
+— Ca să te văd mai bine, draga mea!\n
+— Bunico, ce dinți mari ai!\n
+— Ca să te mănânc mai bine!\n
+În acel moment, lupul se năpustește asupra Scufiței Roșii și o înghite și pe ea.</string>
+    <string name="chapter4">După ce a mâncat bunica și nepoata, lupul, sătul, adoarme profund. Un vânător care trecea prin apropiere aude sforăitul puternic și își dă seama că ceva nu este în regulă. Intră în casă și, văzând lupul adormit, își dă seama ce s-a întâmplat. Cu grijă, îi taie burta și reușește să le salveze pe bunică și pe Scufița Roșie, care erau încă vii. Apoi, umplu burta lupului cu pietre și îl coase la loc. Când lupul se trezește și încearcă să fugă, pietrele îl trag la pământ, iar acesta moare.</string>
 </resources>
